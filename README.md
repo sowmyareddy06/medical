@@ -48,22 +48,11 @@ A privacy-focused, blockchain-powered medical record system built with React, Ap
 - Minimal UI and fast retrieval logic for critical scenarios.
 
 ---
-
-## 🛠️ Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-org/medical-record-dapp.git
-cd medical-record-dapp
-
-
-
+### Contract Details
 0xbcc22930ea60097f0692da0e03ef88e050442cc5a8aca99abbc5e999140896a5
 
 
+<img width="1911" height="967" alt="hacker" src="https://github.com/user-attachments/assets/23e7896c-70e5-40df-bb5d-55439ab23911" />
 
-
-<img width="1499" height="643" alt="Screenshot 2025-08-14 095534" src="https://github.com/user-attachments/assets/a40ad76c-3606-4b40-829b-e79f9c3c6e94" />
 
 
