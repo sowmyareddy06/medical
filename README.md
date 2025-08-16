@@ -1,6 +1,6 @@
 # 🏥 Decentralized Medical Record DApp
 
-A privacy-focused, blockchain-powered medical record system built with React, Aptos Move, and Petra Wallet. Designed for secure patient data management, verified doctor access, and emergency responsiveness.
+A privacy-focused, blockchain-powered medical record system built with React, Aptos Move, and Petra Wallet. Designed for secure patient data management, verified doctor access, and emergency responsiveness....
 
 ---
 
